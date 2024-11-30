@@ -12,7 +12,7 @@ Denial of Service (DoS) vulnerabilities in Z-Wave chipsets. These vulnerabilitie
 
 ### Discoverer
 
-Thanks to Carlos Kayembe Nkuba, Jimin Kang, and Professor Heejo Lee from Korea University for reporting these vulnerabilities.
+Thanks to Carlos Kayembe Nkuba, Jimin Kang, Professor Seunghoon Woo, and Professor Heejo Lee from Korea University for reporting these vulnerabilities.
 
 ### Additional Information
 
@@ -154,7 +154,7 @@ true
 
 ### Discoverer
 
-Thanks to Carlos Kayembe Nkuba, Jimin Kang, and Professor Heejo Lee from Korea University for reporting these vulnerabilities.
+Thanks to Carlos Kayembe Nkuba, Jimin Kang, Professor Seunghoon Woo, and Professor Heejo Lee from Korea University for reporting these vulnerabilities.
 
 
 
@@ -230,7 +230,7 @@ true
 
 ### Discoverer
 
-Thanks to Carlos Kayembe Nkuba, Jimin Kang, and Professor Heejo Lee from Korea University for reporting these vulnerabilities.
+Thanks to Carlos Kayembe Nkuba, Jimin Kang, Professor Seunghoon Woo, and Professor Heejo Lee from Korea University for reporting these vulnerabilities.
 
 
 
@@ -313,7 +313,7 @@ true
 
 ### Discoverer
 
-Thanks to Carlos Kayembe Nkuba, Jimin Kang, and Professor Heejo Lee from Korea University for reporting these vulnerabilities.
+Thanks to Carlos Kayembe Nkuba, Jimin Kang, Professor Seunghoon Woo, and Professor Heejo Lee from Korea University for reporting these vulnerabilities.
 
 
 
@@ -387,7 +387,7 @@ true
 
 ### Discoverer
 
-Thanks to Carlos Kayembe Nkuba, Jimin Kang, and Professor Heejo Lee from Korea University for reporting these vulnerabilities.
+Thanks to Carlos Kayembe Nkuba, Jimin Kang, Professor Seunghoon Woo, and Professor Heejo Lee from Korea University for reporting these vulnerabilities.
 
 
 
@@ -469,7 +469,7 @@ true
 
 ### Discoverer
 
-Thanks to Carlos Kayembe Nkuba, Jimin Kang, and Professor Heejo Lee from Korea University for reporting these vulnerabilities.
+Thanks to Carlos Kayembe Nkuba, Jimin Kang, Professor Seunghoon Woo, and Professor Heejo Lee from Korea University for reporting these vulnerabilities.
 
 
 
@@ -542,7 +542,7 @@ true
 
 ### Discoverer
 
-Thanks to Carlos Kayembe Nkuba, Jimin Kang, and Professor Heejo Lee from Korea University for reporting these vulnerabilities.
+Thanks to Carlos Kayembe Nkuba, Jimin Kang, Professor Seunghoon Woo, and Professor Heejo Lee from Korea University for reporting these vulnerabilities.
 
 
 
@@ -603,6 +603,6 @@ true
 
 ### Discoverer
 
-Thanks to Carlos Kayembe Nkuba, Jimin Kang, and Professor Heejo Lee from Korea University for reporting these vulnerabilities.
+Thanks to Carlos Kayembe Nkuba, Jimin Kang, Professor Seunghoon Woo, and Professor Heejo Lee from Korea University for reporting these vulnerabilities.
 
 
