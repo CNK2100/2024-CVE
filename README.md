@@ -289,7 +289,7 @@ true
   
    
 ### Attack Vectors 
-Malformed packets can be sent to change the end device's role in controller memory, preventing communication with the end device.
+Malformed packets can be sent to the controller, preventing communication with the end device.
    
   
    
