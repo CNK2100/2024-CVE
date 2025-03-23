@@ -582,8 +582,7 @@ true
  
 ### Attack Vectors
 Z-Wave controller devices based on Silicon Labs 500 series are susceptible to a denial
-of service via a crafted malformed FIRMWARE MD GET Command Class. This can be exploited to disrupt the
- normal network operation during the attack.
+of service via a crafted malformed packets.
 
 
 ### Reference
